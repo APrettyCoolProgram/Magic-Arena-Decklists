@@ -1,5 +1,7 @@
 # Giant Lifegain
 
+## Decklist
+
 ```
 1 Grasping Giant (THB) 288
 10 Plains (UST) 212
@@ -26,3 +28,5 @@
 1 Primeval Titan (M11) 192
 1 Crystalline Giant (IKO) 234
 ```
+
+## Breakdown
